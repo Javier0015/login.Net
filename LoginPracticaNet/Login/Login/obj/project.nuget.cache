@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gkt6tpwxfbA/mDrd9VmAdlrwAgGSMStEtLXsWRrrdvQavmik0CxphKvkKGnaNbMhqznOjJ+qg+QIZEK1adoiEg==",
+  "dgSpecHash": "AFo+jK9V4bfVlEkqI2oCVSwc0Lm5tdN6FJZPS1t+tj/uebfDTstNW0c4gkEUqCwDig3d/pa50bu9ma75Aefv3A==",
   "success": true,
-  "projectFilePath": "E:\\PracticaLogin\\LoginPracticaNet\\Login\\Login\\Login.csproj",
+  "projectFilePath": "D:\\login\\LoginPracticaNet\\Login\\Login\\Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\barre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
